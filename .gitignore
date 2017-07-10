@@ -8,3 +8,6 @@
 
 # ...even if they are in subdirectories
 !*/
+
+# oh, shi* documentation too
+!.md
