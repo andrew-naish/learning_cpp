@@ -5,6 +5,7 @@
 !.gitignore
 !*.cpp
 !*.h
+!.vscode/*
 
 # ...even if they are in subdirectories
 !*/
