@@ -13,7 +13,7 @@
                     "Unrestricted",
                     "-NoProfile",
                     "-File",
-                    "${cwd}\buildall.ps1"
+                    "${cwd}/buildall.ps1"
                 ]
             },
             "linux": {
