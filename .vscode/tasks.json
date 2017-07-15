@@ -16,6 +16,9 @@
                     "${cwd}\buildall.ps1"
                 ]
             },
+            "linux": {
+                "command": "./buildall.sh"
+            },
             "group": {
                 "kind": "build",
                 "isDefault": true
