@@ -8,6 +8,7 @@
 !*.ps1
 !*.sh
 !.vscode/*
+!1output
 
 # ...even if they are in subdirectories
 !*/
